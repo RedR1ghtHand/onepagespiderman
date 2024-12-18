@@ -90,4 +90,4 @@ ROBOTSTXT_OBEY = False
 TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
 FEED_EXPORT_ENCODING = "utf-8"
 
-TARGET_URL = "https://market.feedbooks.com/item/6286247"
+TARGET_URL = "https://market.feedbooks.com/top?category_ids=FBBIO000000&page=3"
