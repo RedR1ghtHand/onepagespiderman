@@ -15,7 +15,7 @@ This project contains a Scrapy spider for extracting book data from Feedbooks. I
 
 ## Installation
 1. Have the following prerequisites: python 3.11+
-2. Clone the repository ```git clone https://github.com/RedR1ghtHand/onepagespiderman.git cd onepagespiderman```
+2. Clone the repository `git clone https://github.com/RedR1ghtHand/onepagespiderman.git` -> `cd onepagespiderman`
 3. Run `pip install poetry` -> `poetry install` -> `poetry shell`
 4. Update the settings.py file to include the TARGET_URL: `TARGET_URL = 'https://market.feedbooks.com/top?page=1'`
 
